@@ -2,7 +2,7 @@
 
     <server 
 
-name="DIGITAL NET" ca="0" continent_code="AS" country="klik masuk" country_code="ID" ip="beve-studio.my.id" port="4455" region="ID" url="" token=""/>
+name="Digital.NET" ca="0" continent_code="AS" country="klik masuk" country_code="ID" ip="beve-studio.my.id" port="4455" region="ID" url="" token=""/>
 
 
 </servers>
