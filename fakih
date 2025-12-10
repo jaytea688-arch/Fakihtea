@@ -2,7 +2,7 @@
 
     <server 
 
-name="Digital.NET" ca="0" continent_code="AS" country="klik masuk" country_code="ID" ip="mumble-us2.cleanvoice com" port="56916" region="ID" url="" token=""/>
+name="Digital.NET" ca="0" continent_code="AS" country="klik masuk" country_code="ID" ip="mumble-us2.cleanvoice.com" port="56916" region="ID" url="" token=""/>
 
 
 </servers>
